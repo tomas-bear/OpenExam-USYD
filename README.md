@@ -79,7 +79,7 @@ Third-party and university materials remain the property of their respective rig
 | Computer Science / Data / IT | [`INFO1113/COMP9003`](./courses/COMP9003/) Object-Oriented Programming | practice | [OpenExam page](https://openexam.tech/course/1b52136b-86c7-44c1-803a-796244c6380a) |
 | Computer Science / Data / IT | [`COMP9120`](./courses/COMP9120/) Database Management Systems | cheat sheet, practice | [OpenExam page](https://openexam.tech/course/4f533351-6c9c-490c-8198-e58cce249219) |
 | Computer Science / Data / IT | [`COMP9601`](./courses/COMP9601/) Computer and Network Organisation | practice | [OpenExam page](https://openexam.tech/course/a8428388-7ede-4de2-96cf-9feed21ab4d9) |
-| Computer Science / Data / IT | [`DATA1001`](./courses/DATA1001/) Foundations of Data Science | cheat sheet, practice | [OpenExam page](https://openexam.tech/course/48a2b53e-952a-4fa4-ae42-a5e4e3dfbe99) |
+| Computer Science / Data / IT | [`DATA1001/1901`](./courses/DATA1001/) Foundations of Data Science | cheat sheet, practice | [OpenExam page](https://openexam.tech/course/48a2b53e-952a-4fa4-ae42-a5e4e3dfbe99) |
 | Computer Science / Data / IT | [`DATA2001`](./courses/DATA2001/) Data Science, Big Data and Data Variety | cheat sheet, practice | [OpenExam page](https://openexam.tech/course/389e1a45-01a8-4505-af89-eebd8a96dd6f) |
 | Economics / Econometrics | [`ECON1001`](./courses/ECON1001/) Introductory Microeconomics | cheat sheet, practice | [OpenExam page](https://openexam.tech/course/a3855f60-a6de-4589-8f58-826a44700d59) |
 | Economics / Econometrics | [`ECON1002`](./courses/ECON1002/) Introductory Macroeconomics | cheat sheet, practice | [OpenExam page](https://openexam.tech/course/e62b97a5-6d15-45ce-8a3b-62e1931d90b2) |
@@ -89,7 +89,7 @@ Third-party and university materials remain the property of their respective rig
 | Math / Stats / Science | [`MATH1061`](./courses/MATH1061/) Mathematics 1A | cheat sheet, practice | [OpenExam page](https://openexam.tech/course/fe546a4c-64a6-401c-871d-753685bd2b4c) |
 | Business / Analytics | [`QBUS3820`](./courses/QBUS3820/) Machine Learning and Data Mining in Business | practice | [OpenExam page](https://openexam.tech/course/928e3da7-f9be-41e0-b96b-c6befa7fb75c) |
 | Business / Analytics | [`QBUS6810`](./courses/QBUS6810/) Machine Learning for Business | cheat sheet, practice | [OpenExam page](https://openexam.tech/course/f2196623-235c-456c-867c-b96064b3b93b) |
-| Business / Analytics | [`QBUS6840`](./courses/QBUS6840/) Predictive Analytics | cheat sheet, practice | [OpenExam page](https://openexam.tech/course/3ca3986f-6041-4480-942f-f9c5803020b9) |
+| Business / Analytics | [`QBUS2820/6840`](./courses/QBUS6840/) Predictive Analytics | cheat sheet, practice | [OpenExam page](https://openexam.tech/course/3ca3986f-6041-4480-942f-f9c5803020b9) |
 | Math / Stats / Science | [`STAT5002`](./courses/STAT5002/) Introduction to Statistics | cheat sheet, practice | [OpenExam page](https://openexam.tech/course/0c95fd2c-5417-49a9-b09a-6e43a0c423e5) |
 | Math / Stats / Science | [`STAT5003`](./courses/STAT5003/) Computational Statistical Methods | cheat sheet, practice | [OpenExam page](https://openexam.tech/course/be575121-d57b-4f1e-86f8-714494a9aeca) |
 
