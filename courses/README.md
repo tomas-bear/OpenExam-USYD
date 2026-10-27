@@ -1,6 +1,6 @@
 # Course Index
 
-Full update tracker: [Tencent Docs](https://docs.qq.com/sheet/DRmNoZWp1V1dHY0Nu?tab=ss_52nz0g&viewId=vFP6At)
+Latest materials for every course: [OpenExam · openexam.tech](https://openexam.tech). Each course folder links to its page there.
 
 | Area | Course | Cheatsheet | Practice | Status |
 | --- | --- | --- | --- | --- |
